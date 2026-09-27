@@ -1,0 +1,7 @@
+# GoreeCloud Health — Changelogs
+
+## 2026-09-27 — Drive feature-roadmap migration
+
+- Migrated feature-state authority from the legacy repository/Drive roadmap model to `IMPLEMENTED-FEATURES.md`, `PLANNED-FEATURES.md`, and this `CHANGELOGS.md`.
+- Preserved the fuller Drive migration source under `docs/history/drive-feature-roadmap-source-2026-09-09.md` as non-authoritative historical evidence.
+- This migration does not imply lifecycle promotion, release acceptance, production readiness, or health-data processing authority.

@@ -1,4 +1,7 @@
-# GoreeCloud Health — Feature Roadmap
+# GoreeCloud Health — Planned Features
+
+> **Authority:** Repository-native planned-feature record  
+> **Migration:** Replaces the retired `FEATURE-ROADMAP.md` / Google Drive roadmap controls. GitHub is the sole feature-state authority.
 
 **Lifecycle:** Active planned work. Planned items remain implementation obligations until verified or explicitly dispositioned in authoritative GoreeCloud records.
 

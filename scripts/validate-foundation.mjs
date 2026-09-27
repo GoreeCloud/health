@@ -1,7 +1,7 @@
 import { readFile, access } from 'node:fs/promises';
 
 const required = [
-  'README.md', 'SPECIFICATIONS.md', 'FEATURES.md', 'FEATURE-ROADMAP.md',
+  'README.md', 'SPECIFICATIONS.md', 'FEATURES.md', 'IMPLEMENTED-FEATURES.md', 'PLANNED-FEATURES.md', 'CHANGELOGS.md',
   'BENEFITS.md', 'COMPETITIVE-OBJECTIVES.md', 'BRANDING.md', 'USER-MANUAL.md',
   'SECURITY.md', '.gitignore', '.editorconfig', 'goreecloud.platform.yaml',
   'apps/web/index.html', 'apps/web/app.css', 'apps/web/app.js',
